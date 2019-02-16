@@ -1,6 +1,5 @@
 <?php
 	header("Content-Type: application/json; charset=utf-8"); 
-
 	/* prepara o documento para comunicação com o JSON, as duas linhas a seguir são obrigatórias 
 	  para que o PHP saiba que irá se comunicar com o JSON, elas sempre devem estar no ínicio da página */
 // Dados do servidor da Hostinger
